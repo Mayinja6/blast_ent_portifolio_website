@@ -150,7 +150,7 @@ const Contact = () => {
                 <LocationOnOutlined />
               </DetailsIcon>
               <p style={{ color: theme.tertiary }}>
-                'Menlo Park, California, United States - 673822
+                Menlo Park, California, United States - 673822
               </p>
             </div>
 

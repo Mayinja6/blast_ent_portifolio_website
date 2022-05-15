@@ -25,15 +25,17 @@ const About = () => {
       </div>
       <div className="about-body">
         <div className="about-description">
-          <h2 style={{ color: theme.primary }}>Who We Are</h2>
+          <h2 style={{ color: theme.primary }}>Who I am</h2>
           <p style={{ color: theme.tertiary80 }}>
-            We are the <strong>Blast ENT</strong> . We are photographers and
-            editors based in Kampala, UG.
+            My name's <strong>Simon Doe</strong> . I'm a photographer and editor
+            based Kampala, UG.
             <br />
             <br />
-            During the day we work as photographers at a local agency and in the
-            evening we work on Disco Jocery(DJ's). We spend our leisure hours
-            video and Photo Editing. We love to learn and explore new arenas.
+            During the day I work as a Photographer at a local agency and in the
+            evening I work on freelance projects and utilize the time to built
+            my own projects. I spent my leisure hours writing Documents and
+            Video Editing. Right now I'm also trying a hand at Disco Jocery. I
+            love to learn and explore new arenas.
           </p>
         </div>
         <div className="about-img">

@@ -20,8 +20,16 @@ import user5 from "./user5.svg";
 import user6 from "./user6.svg";
 import orangeThemeBoy from "./orangeTheme-boy.svg";
 import orangeThemeGirl from "./orangeTheme-girl.svg";
+import eduImgWhite from "./eduImgWhite.svg";
+import eduImg from "./eduOrange.svg";
+import expImgWhite from "./expImgWhite.svg";
+import expOrange from "./expOrange.svg";
 
 export {
+  expImgWhite,
+  expOrange,
+  eduImg,
+  eduImgWhite,
   github,
   linkedin,
   twitter,

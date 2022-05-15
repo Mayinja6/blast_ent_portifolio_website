@@ -1,5 +1,5 @@
 import styled from "@emotion/styled";
-import { Button, Icon } from "@mui/material";
+import { Button, Icon, Card } from "@mui/material";
 import { orangeThemeDark as theme } from "./theme";
 import { pageParts } from "./theme";
 import {
@@ -111,6 +111,20 @@ export const SocialIcon = styled(Icon)({
     transform: "scale(1.1)",
     color: theme.secondary,
     backgroundColor: theme.tertiary,
+  },
+});
+
+export const EducationCardEl = styled(Card)({
+  backgroundColor: theme.primary30,
+  "&:hover": {
+    backgroundColor: theme.primary50,
+  },
+});
+
+export const ExperienceCardEl = styled(Card)({
+  backgroundColor: theme.primary30,
+  "&:hover": {
+    backgroundColor: theme.primary50,
   },
 });
 

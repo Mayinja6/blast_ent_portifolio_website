@@ -24,7 +24,7 @@ function Education() {
       institution: "Hawking University, Cambridge",
       course: "Master of Technology",
       startYear: "2019",
-      endYear: "Present",
+      endYear: "2020",
     },
   ];
 

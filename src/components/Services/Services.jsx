@@ -2,13 +2,13 @@ import { orangeThemeDark as theme } from "../../utils/theme";
 import "./Services.css";
 import SingleService from "./SingleService/SingleService";
 import {
-  Code,
   VideoCall,
   TabletAndroid,
   Newspaper,
   Camera,
   MailOutline,
   Book,
+  MusicNote,
 } from "@mui/icons-material";
 
 function Services() {
@@ -24,11 +24,6 @@ function Services() {
       icon: <MailOutline />,
     },
     {
-      id: 6,
-      title: "Web Design",
-      icon: <Code />,
-    },
-    {
       id: 7,
       title: "Photography",
       icon: <Camera />,
@@ -37,6 +32,11 @@ function Services() {
       id: 9,
       title: "Video Editing",
       icon: <VideoCall />,
+    },
+    {
+      id: 10,
+      title: "Disco Jocery",
+      icon: <MusicNote />,
     },
     {
       id: 11,

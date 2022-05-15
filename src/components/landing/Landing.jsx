@@ -25,37 +25,53 @@ const Landing = () => {
               href="https://www.linkedin.com/"
               target="_blank"
               rel="noreferrer"
+              className="landing--social"
             >
               <LinkedIn
-                className="landing--social"
                 style={{ color: theme.secondary }}
                 aria-label="Linked In"
               />
             </a>
-            <a href="https://t.me/blastdeejay" target="_blank" rel="noreferrer">
+            <a
+              href="https://t.me/blastdeejay"
+              target="_blank"
+              rel="noreferrer"
+              className="landing--social"
+            >
               <Telegram
-                className="landing--social"
                 style={{ color: theme.secondary }}
                 aria-label="telegram"
               />
             </a>
-            <a href="https://twitter.com/" target="_blank" rel="noreferrer">
+            <a
+              href="https://twitter.com/"
+              target="_blank"
+              rel="noreferrer"
+              className="landing--social"
+            >
               <Twitter
-                className="landing--social"
                 style={{ color: theme.secondary }}
                 aria-label="Twitter"
               />
             </a>
-            <a href="https://facebook.com/" target="_blank" rel="noreferrer">
+            <a
+              href="https://facebook.com/"
+              target="_blank"
+              rel="noreferrer"
+              className="landing--social"
+            >
               <Facebook
-                className="landing--social"
                 style={{ color: theme.secondary }}
                 aria-label="YouTube"
               />
             </a>
-            <a href="https://youtube.com/" target="_blank" rel="noreferrer">
+            <a
+              href="https://youtube.com/"
+              target="_blank"
+              rel="noreferrer"
+              className="landing--social"
+            >
               <YouTube
-                className="landing--social"
                 style={{ color: theme.secondary }}
                 aria-label="YouTube"
               />

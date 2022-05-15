@@ -27,15 +27,13 @@ const About = () => {
         <div className="about-description">
           <h2 style={{ color: theme.primary }}>Who We Are</h2>
           <p style={{ color: theme.tertiary80 }}>
-            My name's Jane. I'm a web designer and developer based in
-            Southampton, UK.
+            We are the <strong>Blast ENT</strong> . We are photographers and
+            editors based in Kampala, UG.
             <br />
             <br />
-            During the day I work as a lead developer at a local agency and in
-            the evening I work on freelance projects and utilize the time to
-            built my own products. I spent my leisure hours writing articles and
-            poetry. Right now I'm also trying a hand at machine learning and AI.
-            I love to learn and explore new arenas.
+            During the day we work as photographers at a local agency and in the
+            evening we work on Disco Jocery(DJ's). We spend our leisure hours
+            video and Photo Editing. We love to learn and explore new arenas.
           </p>
         </div>
         <div className="about-img">
